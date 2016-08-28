@@ -4,3 +4,4 @@ Square
 Triangle
 Trapezium
 Pentagon
+Hexagon
