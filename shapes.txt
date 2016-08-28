@@ -1,1 +1,6 @@
 Circle
+Rectangle
+Square
+Triangle
+Trapezium
+Pentagon
