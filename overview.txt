@@ -27,8 +27,5 @@ the semester, students will gradually design, implement, test, and
 evaluate a complete multicore system capable of running simple parallel
 applications at the register-transfer level.
 
-<<<<<<< cab4409237af1392101159a1291e8fcb33743ee5
 BOB MODIFIED THIS LINE.
-=======
 ALICE MODIFIED THIS LINE.
->>>>>>> ALICE: Added one more line
